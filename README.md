@@ -90,10 +90,16 @@ Developmeny :
      - Main content
      - Footer
 
-   - Pages
+1) - Pages
 
      - Register / Login Page
+
        - Register
+       - Header
+         - Logo
+         - Login Link
+       - Register Form
+
          - Full Name
          - Email Id
          - Password
@@ -103,18 +109,28 @@ Developmeny :
            - Experienced
            - Fresher
 
-   - Header
+       - Login Form
+         - Header
+           - Logo
+           - Login
+           - Register
+           - For Employees
+         - Login Form
+           - Email ID
+           - Password
 
-     - Home
-     - Jobs
-     - My Activity
-       - My applications
-     - Notifications
-     - Light mode / dark mode
-     - Profile
-       - User name
-       - position
-       - view profile
+- Header
 
-   - sign in or sign up
-     - seperate page for each
+  - Home
+  - Jobs
+  - My Activity
+    - My applications
+  - Notifications
+  - Light mode / dark mode
+  - Profile
+    - User name
+    - position
+    - view profile
+
+- sign in or sign up
+  - seperate page for each
